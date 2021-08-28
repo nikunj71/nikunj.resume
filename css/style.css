@@ -2226,7 +2226,7 @@ label.radios {
 ============================================================*/
 @media (max-width: 991px){
   .main_nav{
-    background-color: #818181;
+    background-color: #232323;
   }
   .mainbanner_content p{
     width: 71%;
@@ -2389,7 +2389,7 @@ label.radios {
       font-size: 18px;
   }
   .main_nav{
-    background-color: #818181;
+    background-color: #232323;
   }
   .sidebar img{
       margin-bottom: 20px;
@@ -2549,7 +2549,7 @@ label.radios {
     font-size: 24px;
   }
   .main_nav{
-    background-color: #818181;
+    background-color: #232323;
   }
   .sidebar{
     padding: 30px 10px;
